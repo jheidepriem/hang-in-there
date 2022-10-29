@@ -24,8 +24,8 @@ Run the command open index.html
 This project was our first Mod 1 pairing project. The project was assigned at the beginning of the week and we spent the full week to complete the project by saturday evening. 
 
 ### Contributors:
-Josephine Heidepriem - https://github.com/jheidepriem
-Reid Poole -  https://github.com/rpoole444?tab=repositories
+[Josephine Heidepriem](https://github.com/jheidepriem)
+[Reid Poole](https://github.com/rpoole444?tab=repositories)
 
 ### Learning Goals:
 Learning Goals
